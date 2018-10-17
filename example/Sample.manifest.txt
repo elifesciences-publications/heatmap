@@ -1,0 +1,7 @@
+x	sample	group
+1	m1_Pb_DMSO	Pb
+2	m3_Pb_DMSO	Pb
+3	m2_Pb_DMSO	Pb
+4	m1_naive	nB
+5	m2_naive	nB
+6	m3_naive	nB
